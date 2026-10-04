@@ -134,7 +134,7 @@ This keeps the project genuinely runnable by opening a single file, while still 
 No installation, build step, or package manager is required.
 
 ```bash
-git clone https://github.com/<your-username>/phishguard.git
+git clone https://github.com/saiprasad-belvat/phishguard.git
 cd phishguard
 ```
 
